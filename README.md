@@ -86,7 +86,6 @@
 - 개발 환경: Andriod Studio, AWS EC2
 - 개발 언어: Java, XML, python
 - 웹 서버: Express
-- 데이터베이스: Firebase
 - 협업 툴: GitHub, Trello
 </br>
 
